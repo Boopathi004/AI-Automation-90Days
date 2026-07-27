@@ -101,31 +101,6 @@ Daily learning repository containing
 
 👉 https://github.com/Boopathi004/AI-Automation-90Days
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-![Boopathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boopathi004&show_icons=true&theme=github_dark)
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boopathi004&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Boopathi004&theme=tokyonight&hide_border=true)
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Boopathi004&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 ## 📊 Activity Graph
 
 <p align="center">
