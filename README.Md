@@ -107,7 +107,7 @@ Daily learning repository containing
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Boopathi004&show_icons=true&theme=tokyonight"/>
+![Boopathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boopathi004&show_icons=true&theme=github_dark)
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boopathi004&layout=compact&theme=tokyonight"/>
 
@@ -117,21 +117,12 @@ Daily learning repository containing
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Boopathi004&theme=tokyonight"/>
-
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Boopathi004&theme=tokyonight&hide_border=true)
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Boopathi004&theme=tokyonight&row=1&column=7"/>
-
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Boopathi004&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
