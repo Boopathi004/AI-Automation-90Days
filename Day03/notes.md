@@ -1,45 +1,152 @@
 # Day 03 Notes
 
 ## Class
-Blueprint used to create objects.
 
-Example:
+A class is a blueprint for creating objects.
+
+Example
+
 class Student:
     pass
 
-## Object
-Instance of a class.
+---
 
-student1 = Student()
+## Object
+
+An object is an instance of a class.
+
+student = Student()
+
+---
 
 ## Constructor
-Automatically executes when an object is created.
+
+A constructor runs automatically whenever an object is created.
+
+Syntax
 
 def __init__(self):
-    ...
+    pass
+
+---
 
 ## self
-Represents the current object.
 
-## Instance Variables
-Variables created using self.
+self refers to the current object.
 
-self.name
-self.age
+Example
 
-## Methods
-Functions inside a class.
+self.name = name
+
+---
+
+## Method
+
+A method is a function inside a class.
+
+Example
 
 def display(self):
-    ...
+    print(self.name)
 
-## Calling a Method
+Calling
 
-student.display()
+obj.display()
 
-## Benefits of OOP
+---
 
-- Code Reusability
-- Better Organization
-- Easy Maintenance
-- Real-world Modelling
+## return
+
+return sends a value back.
+
+Example
+
+def total(self):
+    return self.price * self.quantity
+
+---
+
+## Flow
+
+Class
+    ↓
+Object
+    ↓
+Constructor
+    ↓
+Store Values
+    ↓
+Methods
+    ↓
+Output
+
+---
+
+Mini Projects
+
+1. Student Management
+2. Gym Management
+3. Movie Ticket Booking
+
+---
+
+Interview Questions
+
+Q. What is a Class?
+
+A. A blueprint used to create objects.
+
+---
+
+Q. What is an Object?
+
+A. An instance of a class.
+
+---
+
+Q. What is a Constructor?
+
+A. A special method (__init__) that runs automatically when an object is created.
+
+---
+
+Q. What is self?
+
+A. self refers to the current object.
+
+---
+
+Q. Why do we use Methods?
+
+A. To perform operations on object data.
+
+---
+
+Q. Difference between print() and return()?
+
+print()
+- Displays output only.
+
+return()
+- Sends the value back for reuse.
+
+---
+
+Today's Learning
+
+✅ Classes
+
+✅ Objects
+
+✅ Constructors
+
+✅ self
+
+✅ Methods
+
+✅ return
+
+✅ Mini Projects
+
+Progress:
+Day 03 (Session 1–3) Completed ✔
