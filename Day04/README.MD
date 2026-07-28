@@ -1,15 +1,24 @@
-# Day 04 – Python OOP (Inheritance)
+# 🚀 Day 04 – Advanced Object-Oriented Programming (OOP)
 
-## Topics Covered
+## 📅 Overview
 
-### Session 1
-- Inheritance
+Day 4 focused on mastering advanced Object-Oriented Programming concepts in Python and learning how to handle runtime errors using Exception Handling.
+
+---
+
+# 📚 Topics Covered
+
+## Session 1 – Inheritance
+
 - Parent Class
 - Child Class
 - Single Inheritance
 - Code Reusability
 
-### Session 2
+---
+
+## Session 2 – Advanced Inheritance
+
 - Multilevel Inheritance
 - Multiple Inheritance
 - Hierarchical Inheritance
@@ -18,23 +27,59 @@
 
 ---
 
-## Files
+## Session 3 – Encapsulation
 
-inheritance.py
-- Introduction to Inheritance
-- Parent & Child Classes
-- Single Inheritance Examples
-
-advanced_inheritance.py
-- Multilevel Inheritance
-- Multiple Inheritance
-- Hierarchical Inheritance
-- Method Overriding
-- super() Examples
+- Public Members
+- Protected Members
+- Private Members
+- Getter Methods
+- Setter Methods
+- Data Hiding
 
 ---
 
-## Mini Projects
+## Session 4 – Polymorphism
+
+- Method Overriding
+- Duck Typing
+- Operator Overloading
+- Runtime Polymorphism
+
+---
+
+## Session 5 – Exception Handling
+
+- try
+- except
+- else
+- finally
+- raise
+- Custom Exceptions
+
+---
+
+# 💻 Programs
+
+### Inheritance
+
+- inheritance.py
+- advanced_inheritance.py
+
+### Encapsulation
+
+- encapsulation.py
+
+### Polymorphism
+
+- polymorphism.py
+
+### Exception Handling
+
+- exception_handling.py
+
+---
+
+# 🚀 Mini Projects
 
 - School Management System
 - Employee Management System
@@ -42,79 +87,102 @@ advanced_inheritance.py
 - Bank Management System
 - Company Management System
 - Hospital Management System
+- Bank Account System
+- Employee Salary System
+- Payment System
+- Notification System
+- ATM Withdrawal
+- Login Validation
+- Calculator
+- Student Marks Validation
 
 ---
 
-## Key Concepts Learned
+# 🎯 Key Concepts Learned
 
-✔ Inheritance
-
-✔ Parent Class
-
-✔ Child Class
-
-✔ Single Inheritance
-
-✔ Multilevel Inheritance
-
-✔ Multiple Inheritance
-
-✔ Hierarchical Inheritance
-
-✔ Method Overriding
-
-✔ super()
-
-✔ Code Reusability
-
----
-
-## Challenge Completed
-
-### School Management System
-- Student inherits from Person
-
-### Employee Management System
-- Manager inherits from Employee
-
-### Vehicle Management System
-- Car inherits from Vehicle
-
-### Bank Management System
-- SavingsAccount inherits from Account
-
-### Company Management System
-- Manager overrides display()
-
-### Hospital Management System
-- Doctor overrides display()
-
----
-
-## Interview Topics Covered
-
-- What is Inheritance?
-- Types of Inheritance
-- Parent vs Child Class
-- Method Overriding
-- super() Function
 - Code Reusability
+- Data Hiding
+- Method Overriding
+- Duck Typing
+- Operator Overloading
+- Runtime Error Handling
+- Custom Exception Creation
+- Object-Oriented Design
 
 ---
 
-## Learning Outcome
+# 💡 Learning Outcome
 
 After completing Day 4, I can:
 
-- Create Parent and Child classes
-- Reuse code using Inheritance
-- Implement Single, Multilevel, Multiple, and Hierarchical Inheritance
-- Override Parent methods
-- Use super() effectively
-- Build real-world OOP projects
+✅ Implement Inheritance
+
+✅ Use super()
+
+✅ Apply Encapsulation
+
+✅ Create Getter & Setter methods
+
+✅ Build Polymorphic programs
+
+✅ Handle Exceptions professionally
+
+✅ Create Custom Exceptions
+
+✅ Build real-world Python applications
 
 ---
 
-## Next Topic
+# 📂 Folder Structure
 
-Day 5 – Encapsulation, Polymorphism & Exception Handling
+```
+
+Day04/
+│
+├── inheritance.py
+├── advanced_inheritance.py
+├── encapsulation.py
+├── polymorphism.py
+├── exception_handling.py
+├── notes.md
+├── README.md
+│
+└── mini_projects/
+├── school_management.py
+├── employee_manager.py
+├── vehicle_management.py
+├── bank_management.py
+├── company_management.py
+├── hospital_management.py
+├── bank_account.py
+├── employee_salary.py
+├── payment_system.py
+├── notification_system.py
+├── atm.py
+├── login.py
+├── calculator.py
+└── student_marks.py
+
+```
+
+---
+
+# 📈 Progress
+
+✅ Day 4 Completed
+
+---
+
+# 🎯 Next Learning
+
+➡️ Day 5 – Advanced Python
+
+- Modules
+- Packages
+- JSON
+- Datetime
+- OS Module
+- Random Module
+- Collections
+- Virtual Environment
+- pip

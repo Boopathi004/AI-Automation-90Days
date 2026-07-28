@@ -1,115 +1,50 @@
-# Day 04 Notes
+# 📘 Day 04 Notes
 
-## Inheritance
+---
 
-Inheritance is an OOP concept where one class acquires the properties and methods of another class.
+# 1. Inheritance
 
-Purpose:
+## Definition
+
+Inheritance is an Object-Oriented Programming concept where one class inherits the properties and methods of another class.
+
+Purpose
+
 - Code Reusability
 - Easy Maintenance
 - Better Program Structure
-
-Syntax
-
-class Parent:
-    pass
-
-class Child(Parent):
-    pass
-
----
-
-## Parent Class
-
-Also called:
-- Base Class
-- Super Class
-
-Contains common properties and methods.
-
----
-
-## Child Class
-
-Also called:
-- Derived Class
-- Sub Class
-
-Inherits all accessible properties and methods from the Parent Class.
 
 ---
 
 ## Types of Inheritance
 
-### 1. Single Inheritance
+### Single Inheritance
 
 One Parent → One Child
 
-Example
-
-Animal
-   ↓
-Dog
-
----
-
-### 2. Multilevel Inheritance
+### Multilevel Inheritance
 
 Parent → Child → Grandchild
 
-Example
+### Multiple Inheritance
 
-Animal
-   ↓
-Dog
-   ↓
-Puppy
+Multiple Parents → One Child
 
----
+### Hierarchical Inheritance
 
-### 3. Multiple Inheritance
-
-One Child inherits from multiple Parents.
-
-Example
-
-Father + Mother
-        ↓
-      Child
-
----
-
-### 4. Hierarchical Inheritance
-
-One Parent has multiple Child classes.
-
-Example
-
-Vehicle
- /    \
-Car   Bike
+One Parent → Multiple Children
 
 ---
 
 ## Method Overriding
 
-The Child Class provides its own implementation of a Parent Class method.
-
-Example
-
-Parent:
-display()
-
-Child:
-display()
-
-The Child method replaces the Parent method.
+A Child Class provides its own implementation of a Parent Class method.
 
 ---
 
 ## super()
 
-super() is used to access the Parent Class constructor or methods.
+Used to access Parent Class constructors and methods.
 
 Example
 
@@ -117,136 +52,261 @@ super().__init__()
 
 super().display()
 
-Advantages
+---
 
-- Reuse Parent Code
-- Avoid Duplicate Code
-- Better Readability
+# 2. Encapsulation
+
+## Definition
+
+Encapsulation is the process of combining data and methods into a single class while protecting data from direct access.
 
 ---
 
-## Advantages of Inheritance
+## Access Modifiers
 
-- Code Reusability
-- Less Code
+### Public
+
+Accessible from anywhere.
+
+Example
+
+self.name
+
+---
+
+### Protected
+
+Uses one underscore.
+
+Example
+
+self._salary
+
+---
+
+### Private
+
+Uses double underscore.
+
+Example
+
+self.__balance
+
+---
+
+## Getter Method
+
+Returns private data.
+
+Example
+
+get_balance()
+
+---
+
+## Setter Method
+
+Updates private data safely.
+
+Example
+
+set_balance()
+
+---
+
+## Advantages
+
+- Data Hiding
+- Better Security
 - Easy Maintenance
-- Better Organization
-- Faster Development
+- Controlled Access
 
 ---
 
-## Real-World Examples
+# 3. Polymorphism
 
-Person → Student
+## Definition
 
-Employee → Manager
+Polymorphism means "Many Forms."
 
-Vehicle → Car
+The same method behaves differently depending on the object.
 
-Animal → Dog
+---
 
-Account → SavingsAccount
+## Types
 
-Doctor → Person
+### Method Overriding
+
+Child class changes Parent method.
+
+---
+
+### Duck Typing
+
+Python checks behaviour instead of object type.
+
+---
+
+### Operator Overloading
+
+Operators behave differently for different objects.
+
+Example
+
++
+
+works for
+
+- Numbers
+- Strings
+- Lists
+
+---
+
+## Advantages
+
+- Flexibility
+- Reusability
+- Clean Code
+- Better Design
+
+---
+
+# 4. Exception Handling
+
+## Definition
+
+Exception Handling prevents program crashes caused by runtime errors.
 
 ---
 
 ## Keywords
 
-Inheritance
+### try
 
-Parent Class
-
-Child Class
-
-Base Class
-
-Derived Class
-
-super()
-
-Method Overriding
-
-Code Reusability
+Contains risky code.
 
 ---
 
-## Interview Questions
+### except
 
-Q. What is Inheritance?
-
-Inheritance allows one class to acquire the properties and methods of another class.
+Handles errors.
 
 ---
 
-Q. Why is Inheritance used?
+### else
 
-To reuse existing code and reduce duplication.
-
----
-
-Q. What is a Parent Class?
-
-A class that provides common properties and methods.
+Runs if no exception occurs.
 
 ---
 
-Q. What is a Child Class?
+### finally
 
-A class that inherits from a Parent Class.
-
----
-
-Q. What is Method Overriding?
-
-A Child Class replaces the implementation of a Parent Class method.
+Always executes.
 
 ---
 
-Q. What is super()?
+### raise
 
-super() calls methods or constructors from the Parent Class.
-
----
-
-## Today's Mini Projects
-
-✔ School Management System
-
-✔ Employee Management System
-
-✔ Vehicle Management System
-
-✔ Bank Management System
-
-✔ Company Management System
-
-✔ Hospital Management System
+Creates an exception manually.
 
 ---
 
-## Today's Learning Summary
+### Custom Exception
 
-✔ Inheritance
+User-defined exception created using the Exception class.
 
-✔ Parent & Child Classes
+Example
 
-✔ Single Inheritance
-
-✔ Multilevel Inheritance
-
-✔ Multiple Inheritance
-
-✔ Hierarchical Inheritance
-
-✔ Method Overriding
-
-✔ super()
-
-✔ Real-World Projects
+class InvalidAgeError(Exception):
+    pass
 
 ---
 
-## Progress
+## Common Exceptions
 
-✅ Day 04 Completed
+- ZeroDivisionError
+- ValueError
+- TypeError
+- FileNotFoundError
+- IndexError
+- KeyError
+
+---
+
+# Mini Projects
+
+- School Management
+- Employee Management
+- Vehicle Management
+- Bank Management
+- Company Management
+- Hospital Management
+- Bank Account
+- Employee Salary
+- Payment System
+- Notification System
+- ATM Withdrawal
+- Login Validation
+- Calculator
+- Student Marks Validation
+
+---
+
+# Interview Questions
+
+### What is Inheritance?
+
+Inheritance allows one class to inherit properties and methods from another class.
+
+---
+
+### What is Encapsulation?
+
+Encapsulation protects data by controlling access through methods.
+
+---
+
+### What is Polymorphism?
+
+Polymorphism allows the same method to perform different actions based on the object.
+
+---
+
+### What is Exception Handling?
+
+Exception Handling prevents applications from crashing when runtime errors occur.
+
+---
+
+### What is super()?
+
+super() calls Parent Class methods or constructors.
+
+---
+
+### What is Method Overriding?
+
+A Child Class replaces a Parent Class method with its own implementation.
+
+---
+
+# Day 4 Summary
+
+✅ Inheritance
+
+✅ Advanced Inheritance
+
+✅ Encapsulation
+
+✅ Polymorphism
+
+✅ Exception Handling
+
+✅ 14+ Mini Projects
+
+---
+
+# Status
+
+🎉 Day 04 Successfully Completed
