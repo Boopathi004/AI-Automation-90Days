@@ -1,149 +1,218 @@
-<h1 align="center">Hi 👋, I'm Boopathi Raja N</h1>
+# 🚀 AI Automation Engineer – 90 Day Challenge
 
-<h3 align="center">
-Software Engineer • AI Automation Engineer (Learning) • Python Developer
-</h3>
+Hi, I'm **Boopathi Raja N** 👋
 
-<p align="center">
-I'm a Software Engineer with 5+ years of experience in .NET development.
-<br>
-Currently on a <b>90-Day Journey</b> to become an <b>AI Automation Engineer</b>.
-</p>
+I'm a **Software Engineer** from Chennai, India 🇮🇳, transitioning into an **AI Automation Engineer** by consistently learning, building projects, and sharing my progress publicly.
 
 ---
 
-## 🚀 About Me
+# 🎯 Goal
 
-- 💼 Software Engineer with **5+ years** of experience
-- 🌱 Currently learning **Python, AI Automation & AI Agents**
-- 🎯 Goal: Become an **AI Automation Engineer**
-- 🤖 Building AI projects every day
-- 📚 Learning in Public (#90DaysChallenge)
-- 📍 Chennai, India
-
----
-
-## 🔥 Current Focus
+Become **job-ready in 90 days** by mastering:
 
 - 🐍 Python
 - 🌐 REST APIs
 - 🤖 OpenAI API
-- 🧠 Prompt Engineering
+- 🧠 LangChain
+- 🔗 LangGraph
+- 🤖 AI Agents
+- 📚 RAG (Retrieval-Augmented Generation)
 - ⚡ n8n
 - 🔄 Make.com
-- 🦜 LangChain
-- 📚 RAG
-- 🤖 AI Agents
-- 🚀 FastAPI
 - 🐳 Docker
+- 🚀 FastAPI
+- ☁️ Cloud Deployment
 
 ---
 
-## 📅 90-Day AI Automation Challenge
+# 📅 Progress
 
-| Progress | Status |
-|----------|--------|
-| ✅ Day 1 | Python Fundamentals |
-| ✅ Day 2 | Data Structures & File Handling |
-| ✅ Day 3 | Object-Oriented Programming |
-| ⏳ Day 4 | Advanced Python |
-
----
-
-## 🛠 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,cpp,c" />
-</p>
-
-### Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,html,css,js" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
-</p>
-
-### Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,fastapi" />
-</p>
+| Day | Topics | Status |
+|-----|--------|--------|
+| Day 1 | Python Fundamentals | ✅ |
+| Day 2 | Collections & File Handling | ✅ |
+| Day 3 | Object-Oriented Programming | ✅ |
+| Day 4 | Advanced OOP & Exception Handling | ✅ |
+| Day 5 | Advanced Python | ⏳ |
+| Day 6 | Functional Programming | ⏳ |
+| Day 7 | REST APIs | ⏳ |
 
 ---
 
-## 📂 Featured Repository
+## 📊 Challenge Progress
 
-### 🚀 AI-Automation-90Days
+```text
+████░░░░░░░░░░░░░░░░ 4/90 Days Completed
+```
 
-Daily learning repository containing
+---
+
+# 📚 What I've Learned
+
+## ✅ Python Fundamentals
+
+- Variables
+- Data Types
+- Operators
+- Conditions
+- Loops
+- Functions
+
+---
+
+## ✅ Collections
+
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- File Handling
+
+---
+
+## ✅ Object-Oriented Programming
+
+- Classes & Objects
+- Constructors
+- Methods
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Exception Handling
+
+---
+
+# 💻 Mini Projects Completed
+
+- 🎓 School Management System
+- 👨‍💼 Employee Management System
+- 🚗 Vehicle Management System
+- 🏦 Bank Management System
+- 🏢 Company Management System
+- 🏥 Hospital Management System
+- 💳 Bank Account System
+- 💰 Employee Salary System
+- 💸 Payment Processing System
+- 📢 Notification System
+- 🏧 ATM Withdrawal System
+- 🔐 Login Validation System
+- 🧮 Calculator
+- 📝 Student Marks Validation
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
 
 - Python
-- OOP
-- APIs
-- AI
+
+### Version Control
+
+- Git
+- GitHub
+
+### IDE
+
+- Visual Studio Code
+
+### Learning (Upcoming)
+
+- OpenAI API
 - LangChain
+- LangGraph
+- AI Agents
 - n8n
 - Make.com
-- AI Agents
-
-👉 https://github.com/Boopathi004/AI-Automation-90Days
-
-## 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Boopathi004&theme=tokyo-night"/>
-
-</p>
+- FastAPI
+- Docker
 
 ---
 
-## 🎯 2026 Goals
+# 📂 Repository Structure
 
-- ✅ Master Python
-- ✅ Learn AI Automation
-- ✅ Build 20+ Projects
-- ✅ Master LangChain
-- ✅ Learn AI Agents
-- ✅ Become Job Ready
-- 🎯 Land an AI Automation Engineer Role
-
----
-
-## 🤝 Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/boopathi-raja-n-a008701b7">
-<img src="https://img.shields.io/badge/LinkedIn-Boopathi%20Raja%20N-blue?logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Boopathi004">
-<img src="https://img.shields.io/badge/GitHub-Boopathi004-black?logo=github"/>
-</a>
-
-</p>
+```text
+AI-Automation-90Days/
+│
+├── Day01/
+├── Day02/
+├── Day03/
+├── Day04/
+├── Projects/
+├── Notes/
+├── README.md
+└── requirements.txt
+```
 
 ---
 
-## 💡 Quote
+# 🎯 Current Focus
 
-> "Consistency beats intensity. One day of learning, one project at a time."
+✔ Building a strong Python foundation
+
+⬜ Advanced Python
+
+⬜ REST APIs
+
+⬜ AI APIs
+
+⬜ AI Automation
+
+⬜ AI Agents
+
+⬜ RAG Applications
+
+⬜ End-to-End AI Projects
 
 ---
 
-⭐ Thanks for visiting my profile!
-Let's connect, collaborate, and build amazing AI solutions together.
+# 📈 Learning Philosophy
+
+> **Learn → Build → Share → Improve → Repeat**
+
+Every concept I learn is followed by:
+
+- 📖 Notes
+- 💻 Hands-on Coding
+- 🚀 Mini Projects
+- 📂 GitHub Commits
+- 💼 LinkedIn Updates
+
+---
+
+# 🌟 Why This Repository?
+
+This repository documents my journey from a Software Engineer to an AI Automation Engineer through:
+
+- Daily learning
+- Real-world coding exercises
+- Practical automation projects
+- Continuous improvement
+- Public accountability
+
+---
+
+# 📅 Next Milestones
+
+- ✅ Complete Advanced Python
+- ⏳ Learn REST APIs
+- ⏳ Integrate AI APIs
+- ⏳ Build AI Automation Workflows
+- ⏳ Develop AI Agents
+- ⏳ Deploy Production Projects
+
+---
+
+# 📬 Connect With Me
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/boopathi-raja-n-a008701b7/
+
+💻 **GitHub**  
+https://github.com/Boopathi004
+
+---
+
+## ⭐ If you find this repository useful, consider giving it a star!
+
+Thank you for following my AI Automation journey! 🚀
