@@ -1,150 +1,159 @@
-<h1 align="center">🚀 AI Automation Engineer Roadmap</h1>
+<h1 align="center">🚀 AI Automation Engineer - 90 Day Challenge</h1>
 
 <h3 align="center">
-90 Days • Learn in Public • Build in Public • Get Hired
+From Software Engineer ➜ AI Automation Engineer
 </h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Progress-4%2F90-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Open%20to-AI%20Automation%20Roles-success?style=for-the-badge"/>
-<img src="https://img.shields.io/github/last-commit/Boopathi004/AI-Automation-90Days?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Boopathi004/AI-Automation-90Days?style=for-the-badge"/>
-
+Building in Public • Learning Every Day • Job Ready in 90 Days
 </p>
 
 ---
 
-# 👋 Hi, I'm Boopathi Raja N
+## 👋 About Me
 
-💻 Software Engineer
+Hi, I'm **Boopathi Raja N**.
 
-🤖 Future AI Automation Engineer
+💻 Software Engineer with 5+ years of experience.
 
-🇮🇳 Chennai, India
+🤖 Currently transitioning into an **AI Automation Engineer**.
 
----
-
-## 🎯 Mission
-
-I'm transforming from a Software Engineer into an **AI Automation Engineer** by building real-world projects every single day.
-
-This repository documents my complete **90-Day Learning Journey**.
-
-Every day includes
-
-✅ Notes
-
-✅ Coding
-
-✅ Mini Projects
-
-✅ GitHub Commits
-
-✅ LinkedIn Posts
+📚 This repository documents my **90-day journey** of learning Python, AI, APIs, Automation, and AI Agents through hands-on projects.
 
 ---
 
-# 🧠 Tech Roadmap
+# 🎯 Mission
 
-## Phase 1 — Python
+Become job-ready for an **AI Automation Engineer** role by mastering:
 
-- ✅ Python Basics
-- ✅ Data Structures
-- ✅ File Handling
-- ✅ OOP
-- ✅ Exception Handling
-- ⏳ Advanced Python
-
----
-
-## Phase 2 — APIs
-
-- REST API
-- JSON
-- Authentication
-- Requests
-- Webhooks
+- 🐍 Python
+- 🌐 REST APIs
+- 🤖 OpenAI API
+- 🧠 LangChain
+- 🔗 LangGraph
+- 🤖 AI Agents
+- ⚡ n8n
+- 🔄 Make.com
+- 🐳 Docker
+- 🚀 FastAPI
+- ☁️ Deployment
 
 ---
 
-## Phase 3 — AI
+# 📊 Challenge Progress
 
-- OpenAI API
-- Gemini API
-- Claude API
-- Prompt Engineering
+| Progress | Status |
+|----------|--------|
+| Day Completed | **5 / 90** |
+| Current Phase | Python Foundation |
+| GitHub Commits | Daily |
+| LinkedIn Updates | Daily |
 
----
+```text
+Overall Progress
 
-## Phase 4 — AI Frameworks
-
-- LangChain
-- LangGraph
-- CrewAI
-- MCP
-- AI Agents
+█████░░░░░░░░░░░░░░░░░░░ 5 / 90 Days
+```
 
 ---
 
-## Phase 5 — Automation
+# 📅 Learning Journey
 
-- n8n
-- Make.com
-- Zapier
-- Gmail Automation
-- Google Sheets Automation
-
----
-
-## Phase 6 — Deployment
-
-- FastAPI
-- Docker
-- Railway
-- Render
-- Vercel
+| Day | Topics | Status |
+|-----|--------|--------|
+| ✅ Day 1 | Python Fundamentals | Completed |
+| ✅ Day 2 | Collections & File Handling | Completed |
+| ✅ Day 3 | Object-Oriented Programming | Completed |
+| ✅ Day 4 | Advanced OOP & Exception Handling | Completed |
+| ✅ Day 5 | Modules, Packages & Virtual Environment | Completed |
+| ⏳ Day 6 | File Automation & CSV | Upcoming |
+| ⏳ Day 7 | REST APIs | Upcoming |
 
 ---
 
-# 📅 Progress Tracker
+# 📚 Skills Learned
 
-| Day | Topic | Status |
-|------|------------------------------|--------|
-| ✅ 01 | Python Fundamentals | Complete |
-| ✅ 02 | Collections & File Handling | Complete |
-| ✅ 03 | Object-Oriented Programming | Complete |
-| ✅ 04 | Advanced OOP & Exception Handling | Complete |
-| ⏳ 05 | Advanced Python | Next |
-| ⏳ 06 | Functional Python | Upcoming |
-| ⏳ 07 | REST APIs | Upcoming |
+## Python Fundamentals
+
+- Variables
+- Data Types
+- Operators
+- Input & Output
+- Conditions
+- Loops
+- Functions
 
 ---
 
-# 💻 Projects Built
+## Python Collections
 
-✔ Student Management
+- List
+- Tuple
+- Set
+- Dictionary
+- File Handling
 
-✔ Gym Management
+---
 
-✔ Bank Account
+## Object-Oriented Programming
 
-✔ Employee Salary
+- Classes & Objects
+- Constructors
+- Methods
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Exception Handling
 
-✔ Payment System
+---
 
-✔ Notification System
+## Advanced Python
 
-✔ ATM System
+- User Defined Modules
+- Built-in Modules
+- Packages
+- Virtual Environment
+- pip
+- requirements.txt
 
-✔ Login Validation
+---
 
-✔ Calculator
+# 💻 Projects Completed
 
-✔ Student Marks Validator
+### Day 1
 
-…and many more.
+- Basic Calculator
+- Student Information System
+
+### Day 2
+
+- File Manager
+- Student Record System
+
+### Day 3
+
+- Student Management System
+- Employee Management System
+- Vehicle Management System
+
+### Day 4
+
+- Bank Account System
+- Employee Salary System
+- ATM Withdrawal
+- Payment Processing
+- Notification System
+
+### Day 5
+
+- Calculator Module
+- Utility Package
+- Password Generator
+- Dice Roller
+- Lucky Winner
+- Age Calculator
+- Student JSON Generator
+- Environment Checker
 
 ---
 
@@ -152,93 +161,104 @@ Every day includes
 
 ### Languages
 
-🐍 Python
-
----
+- Python
 
 ### Tools
 
-Git
+- Git
+- GitHub
+- VS Code
 
-GitHub
+### Python Libraries
 
-VS Code
+- math
+- random
+- datetime
+- os
+- json
+- requests
 
----
+### Upcoming Technologies
 
-### Upcoming
-
-OpenAI
-
-LangChain
-
-LangGraph
-
-Docker
-
-FastAPI
-
-n8n
-
-Make
-
-CrewAI
+- REST APIs
+- OpenAI API
+- LangChain
+- LangGraph
+- n8n
+- Make.com
+- FastAPI
+- Docker
 
 ---
 
-# 📂 Repository
+# 📂 Repository Structure
 
-```
+```text
 AI-Automation-90Days/
-
-├── Day01
-├── Day02
-├── Day03
-├── Day04
-├── Projects
-├── Notes
-└── README.md
+│
+├── Day01/
+├── Day02/
+├── Day03/
+├── Day04/
+├── Day05/
+│
+├── Projects/
+├── Notes/
+│
+├── README.md
+└── requirements.txt
 ```
 
 ---
 
-# 📈 Current Progress
+# 📈 Current Roadmap
 
-```
-Python Foundation
+### ✅ Completed
 
-████████████████░░░░ 80%
+- Python Fundamentals
+- Collections
+- File Handling
+- OOP
+- Modules
+- Packages
+- Virtual Environment
 
-AI Automation Journey
+### 🔜 Next
 
-████░░░░░░░░░░░░░░░░ 4 / 90
-```
+- File Automation
+- CSV
+- Excel
+- REST APIs
+- OpenAI API
+- AI Automation
+- AI Agents
+- LangChain
+- RAG
 
 ---
 
 # 🌟 Learning Philosophy
 
-> Learn.
+> Learn → Practice → Build → Document → Share → Repeat
 
-> Build.
+Every topic includes:
 
-> Document.
-
-> Share.
-
-> Repeat.
+- 📖 Notes
+- 💻 Hands-on Coding
+- 🚀 Mini Projects
+- 📂 GitHub Commits
+- 💼 LinkedIn Posts
 
 ---
 
-# 🎯 Ultimate Goal
+# 🎯 End Goal
 
-✔ AI Automation Engineer
+By the end of this challenge, I aim to become:
 
-✔ AI Workflow Developer
-
-✔ AI Agent Developer
-
-✔ AI Solutions Engineer
+- AI Automation Engineer
+- AI Workflow Developer
+- AI Solutions Engineer
+- AI Agent Developer
 
 ---
 
@@ -254,20 +274,22 @@ https://github.com/Boopathi004
 
 ---
 
-# ⭐ Support
+# ⭐ Support My Journey
 
-If you like this journey,
+If you find this repository helpful or inspiring,
 
-⭐ Star this repository.
+⭐ Star the repository
 
-Follow my progress as I build towards becoming an AI Automation Engineer.
+🤝 Connect with me on LinkedIn
+
+💬 Follow my 90-day AI Automation journey
 
 ---
 
 <h2 align="center">
 
-🚀 Day 4 / 90 Complete
+🚀 Day 5 / 90 Complete ✅
 
-Next → Advanced Python
+Next → File Automation, CSV & REST APIs
 
 </h2>
