@@ -1,224 +1,250 @@
-# 🚀 AI Automation Engineer - 90 Day Challenge
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Boopathi Raja N</h1>
-<h3 align="center">Software Engineer → AI Automation Engineer 🚀</h3>
+# 🚀 AI Automation Engineer – 90 Days Challenge
+
+### From **5+ Years .NET Developer** ➜ **AI Automation Engineer**
+
+Building in Public • Learning Every Day • Shipping Real Projects
+
+🎯 **Goal:** Become Job-Ready in 90 Days & Land an AI Automation Engineer Role
 
 <p align="center">
-Building in public • Learning every day • Documenting my journey
+
+<a href="https://github.com/Boopathi004">
+<img src="https://img.shields.io/badge/GitHub-Boopathi004-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/boopathiraja">
+<img src="https://img.shields.io/badge/LinkedIn-Boopathi%20Raja-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://boopathi-builder-chi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live%20Website-00C853?style=for-the-badge&logo=google-chrome"/>
+</a>
+
 </p>
 
----
-
-## 🎯 Mission
-
-My goal is to become **job-ready as an AI Automation Engineer / AI Engineer** in **90 days** by consistently learning, building real-world projects, and sharing my progress publicly.
-
-Instead of only watching tutorials, I'm focusing on creating a strong portfolio that demonstrates practical AI engineering skills.
+</div>
 
 ---
 
-# 🛣️ Roadmap
+# 👋 About Me
 
-### ✅ Python Foundation
-- Python Basics
+Hi, I'm **Boopathi**.
+
+I'm a **Software Engineer with 5+ years of experience** building desktop and enterprise applications using the Microsoft technology stack.
+
+### 💻 Technical Background
+
+- C#
+- .NET
+- WPF
+- WinForms
+- SQL Server
+
+Today I'm transitioning into **AI Automation Engineering** by learning, building, and documenting everything publicly.
+
+Instead of only watching tutorials, I build **real projects every day** and share the complete journey.
+
+---
+
+# 🎯 My Mission
+
+- 🐍 Master Python
+- ⚡ Build Automation Projects
+- 📊 Excel, CSV & JSON Automation
+- 🌐 REST APIs
+- 🤖 AI & LLM Applications
+- 🧠 Prompt Engineering
+- 🔗 LangChain
+- 📚 RAG
+- 🤖 AI Agents
+- 🔄 n8n
+- ⚙️ Make.com
+- 💼 Build an AI Automation Portfolio
+- 🎤 Crack AI Automation Interviews
+
+---
+
+# 🛣️ Learning Roadmap
+
+| Phase | Progress |
+|--------|:-------:|
+| 🐍 Python Fundamentals | ✅ |
+| 📂 File Automation | ✅ |
+| 📊 Excel Automation | ✅ |
+| 📄 CSV Automation | ⏳ |
+| 🗄 JSON Automation | ⏳ |
+| 🌐 REST APIs | ⏳ |
+| 💾 Database Automation | ⏳ |
+| 🕸 Web Scraping | ⏳ |
+| 📧 Email Automation | ⏳ |
+| 🤖 OpenAI API | ⏳ |
+| 🧠 Prompt Engineering | ⏳ |
+| 💬 LLM Applications | ⏳ |
+| 🔗 LangChain | ⏳ |
+| 📚 RAG | ⏳ |
+| 🤖 AI Agents | ⏳ |
+| ⚙️ n8n | ⏳ |
+| 🔄 Make.com | ⏳ |
+| 💼 Resume & Interview Prep | 🔄 |
+
+---
+
+# 📅 Daily Progress
+
+| Day | Learning | Status |
+|-----|----------|:------:|
+| Day 01 | Python Basics | ✅ |
+| Day 02 | Functions & File Handling | ✅ |
+| Day 03 | Object-Oriented Programming | ✅ |
+| Day 04 | Exception Handling | ✅ |
+| Day 05 | Modules & Packages | ✅ |
+| Day 06 | File Automation (os, pathlib, shutil) | ✅ |
+| Day 07 | Excel Automation (openpyxl) | ✅ |
+
+---
+
+# 💼 Projects Built
+
+## 📂 File Automation
+
+- 📁 File Organizer
+- 📁 Folder Manager
+- 🔍 File Inspector
+- 💾 Backup Automation
+
+## 📊 Excel Automation
+
+- Employee Excel Generator
+- Employee Information Management System
+- Salary Report Generator
+- Professional Excel Formatter
+- Multi-Sheet Workbook Automation
+
+---
+
+# 🧠 Skills Learned
+
+### Python
+
+- Variables
+- Data Types
+- Loops
 - Functions
 - OOP
-- Advanced OOP
-- Modules & Packages
-- Virtual Environments
-
-### 🚧 Automation
-- File Automation
-- CSV Automation
-- Excel Automation
-- REST APIs
-- JSON
-- Webhooks
-
-### 🤖 AI & LLM
-- Prompt Engineering
-- OpenAI API
-- Google Gemini API
-- Claude API
-- Structured Outputs
-- Function Calling
-
-### 🧠 AI Engineering
-- LangChain
-- LangGraph
-- RAG
-- Vector Databases
-- AI Agents
-- MCP (Model Context Protocol)
-
-### ⚡ Workflow Automation
-- n8n
-- Make.com
-- Gmail Automation
-- Google Sheets
-- Slack
-- WhatsApp Automation
-
-### 🚀 Deployment
-- FastAPI
-- Docker
-- GitHub
-- Portfolio
-- Interview Preparation
-
----
-
-# 📅 Progress
-
-| Day | Topics | Status |
-|------|--------|--------|
-| ✅ Day 1 | Python Basics | Completed |
-| ✅ Day 2 | Functions & Collections | Completed |
-| ✅ Day 3 | Object-Oriented Programming | Completed |
-| ✅ Day 4 | Advanced OOP | Completed |
-| ✅ Day 5 | Modules, Packages & Virtual Environment | Completed |
-| ✅ Day 6 | File Automation & CSV Processing | Completed |
-| ⏳ Day 7 | Excel Automation | Coming Next |
-
----
-
-# 🛠️ Projects Built
-
-### Python Fundamentals
-- ✅ Calculator
-- ✅ Student Record System
-- ✅ Employee Management System
-- ✅ Bank Account System
-- ✅ ATM Simulator
-- ✅ Employee Salary Calculator
+- Exception Handling
 
 ### File Automation
-- ✅ Folder Management System
-- ✅ File Inspector
-- ✅ Backup Tool
 
-### Data Automation
-- ✅ Student Management System (CSV)
+- Read Files
+- Write Files
+- Append Files
+- os
+- pathlib
+- shutil
 
-More AI projects coming soon...
+### Excel Automation
+
+- Workbook
+- Worksheet
+- Multiple Sheets
+- Reading Excel
+- Updating Excel
+- Searching Records
+- Formatting
+- Styling
+- Borders
+- Freeze Panes
+- Number Formatting
 
 ---
 
-# 💻 Tech Stack
+# 📈 Progress
 
-### Languages
-- Python
-- SQL
-- C#
+```
+███████░░░░░░░░░░░░░░░░░
 
-### Version Control
-- Git
-- GitHub
+Completed: 7 / 90 Days
 
-### IDE
-- VS Code
+Progress: 7.8%
+```
 
-### Coming Soon
-- FastAPI
+---
+
+# 🎯 Current Focus
+
+- 🐍 Python Automation
+- 📊 Business Automation
+- 🤖 AI Automation
+- 🧠 LLM Engineering
+
+---
+
+# 🏆 Repository Includes
+
+Every learning day contains:
+
+- 📘 Notes
+- 💻 Source Code
+- 🧩 Mini Projects
+- 📄 README
+- 📝 Handwritten Notes
+- 🎤 Interview Preparation
+
+Everything is built from scratch.
+
+---
+
+# 🚀 Coming Soon
+
+- CSV Automation
+- JSON Automation
+- REST APIs
+- SQLite
+- Web Scraping
+- Email Automation
 - OpenAI API
-- Gemini API
+- Prompt Engineering
 - LangChain
-- LangGraph
-- ChromaDB
-- FAISS
-- n8n
-- Make.com
-- Docker
-
----
-
-# 📈 Current Progress
-
-```text
-90-Day Challenge
-
-██████░░░░░░░░░░░░░░░░░░░░
-
-Completed:
-Day 6 / 90
-
-Progress:
-6.7%
-```
-
----
-
-# 📂 Repository Structure
-
-```text
-AI-Automation-90Days/
-
-├── Day01/
-├── Day02/
-├── Day03/
-├── Day04/
-├── Day05/
-├── Day06/
-├── Projects/
-├── Notes/
-└── README.md
-```
-
----
-
-# 🎯 Current Goal
-
-Become an **AI Automation Engineer** by mastering:
-
-- Python
-- APIs
-- LLMs
 - RAG
 - AI Agents
-- Workflow Automation
-
-and building a portfolio of real-world AI applications.
+- n8n
+- Make.com
 
 ---
 
-# 📌 Connect With Me
+# 💡 Quote
 
-### 💼 LinkedIn
+> **"Consistency beats intensity. Small improvements every day lead to extraordinary results."**
 
-www.linkedin.com/in/boopathi-raja-n-a008701b7
+---
 
-### 💻 GitHub
+# 🤝 Let's Connect
 
+💻 **GitHub**  
 https://github.com/Boopathi004
 
-### 📂 90-Day Repository
+💼 **LinkedIn**  
+https://www.linkedin.com/in/boopathiraja
 
-https://github.com/Boopathi004/AI-Automation-90Days
-
----
-
-# 📊 Daily Learning Formula
-
-```
-📚 Learn
-      ↓
-💻 Build
-      ↓
-🐞 Debug
-      ↓
-📝 Document
-      ↓
-🚀 Share
-      ↓
-🔁 Repeat
-```
+🌐 **Portfolio**  
+https://boopathi-builder-chi.vercel.app/
 
 ---
 
-# 🌟 Quote
+# 🎯 Final Goal
 
-> **"Small improvements every day lead to remarkable results."**
+By the end of this challenge, this repository will include:
 
-⭐ If you find this journey inspiring, feel free to follow my progress and connect with me on LinkedIn!
+- ✅ 40+ Python Projects
+- ✅ 20+ AI Automation Projects
+- ✅ LLM Applications
+- ✅ AI Agents
+- ✅ Production-Ready Workflows
+- ✅ Interview Preparation
+- ✅ Job-Ready Portfolio
 
-Let's build the future with AI! 🤖🚀
+## 🚀 Destination
+
+# **AI Automation Engineer**
