@@ -1,0 +1,6 @@
+2026-08-06 16:09:39,559 - ERROR - Exception Occurred
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\Desktop\AI Automation Engineer\Day09\session4_logging\exception_logging.py", line 17, in <module>
+    print(100 / number)
+          ~~~~^~~~~~~~
+ZeroDivisionError: division by zero

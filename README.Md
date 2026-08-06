@@ -73,9 +73,13 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | 🐍 Python Fundamentals | ✅ |
 | 📂 File Automation | ✅ |
 | 📊 Excel Automation | ✅ |
-| 📄 CSV Automation | ⏳ |
-| 🗄 JSON Automation | ⏳ |
-| 🌐 REST APIs | ⏳ |
+| 📄 CSV Automation | ✅ |
+| 🗄 JSON Automation | ✅ |
+| 🌐 REST APIs | ✅ |
+| ⚙️ Advanced Python Functions | ✅ |
+| 🧩 Functional Programming | ✅ |
+| 🛡️ Exception Handling | ✅ |
+| 📝 Logging | ✅ |
 | 💾 Database Automation | ⏳ |
 | 🕸 Web Scraping | ⏳ |
 | 📧 Email Automation | ⏳ |
@@ -102,6 +106,8 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | Day 05 | Modules & Packages | ✅ |
 | Day 06 | File Automation (os, pathlib, shutil) | ✅ |
 | Day 07 | Excel Automation (openpyxl) | ✅ |
+| Day 08 | CSV, JSON & REST API Automation | ✅ |
+| Day 09 | Advanced Python, Functional Programming, Exception Handling & Logging | ✅ |
 
 ---
 
@@ -114,6 +120,8 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - 🔍 File Inspector
 - 💾 Backup Automation
 
+---
+
 ## 📊 Excel Automation
 
 - Employee Excel Generator
@@ -124,9 +132,69 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 
 ---
 
+## 📄 CSV Automation
+
+- CSV Creator
+- CSV Reader
+- CSV Writer
+- CSV Append System
+- Employee CSV Generator
+- Employee Management System
+
+---
+
+## 🗄 JSON Automation
+
+- JSON Creator
+- JSON Reader
+- JSON Parser
+- JSON Updater
+- Employee JSON Database
+
+---
+
+## 🌐 REST API Automation
+
+- GET Request Client
+- POST Request Client
+- JSON Response Parser
+- API Error Handler
+- JSON API Integrator
+
+---
+
+## ⚙️ Advanced Python
+
+- Calculator using Functions
+- Advanced Function Examples
+- Lambda Functions
+- Map / Filter / Reduce
+- Employee Salary Analyzer
+
+---
+
+## 🛡️ Exception Handling
+
+- Try Except Examples
+- Multiple Exceptions
+- Custom Exceptions
+- Raise Exceptions
+- Banking Management System
+
+---
+
+## 📝 Logging
+
+- Basic Logging
+- Logging Levels
+- Logging to File
+- Exception Logging
+- Employee Logger System
+---
+
 # 🧠 Skills Learned
 
-### Python
+## 🐍 Python
 
 - Variables
 - Data Types
@@ -134,8 +202,18 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Functions
 - OOP
 - Exception Handling
+- Lambda Functions
+- Map
+- Filter
+- Reduce
+- Variable Scope
+- *args
+- **kwargs
+- Return Values
 
-### File Automation
+---
+
+## 📂 File Automation
 
 - Read Files
 - Write Files
@@ -144,41 +222,87 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - pathlib
 - shutil
 
-### Excel Automation
+---
+
+## 📊 Excel Automation
 
 - Workbook
 - Worksheet
 - Multiple Sheets
-- Reading Excel
-- Updating Excel
-- Searching Records
 - Formatting
 - Styling
-- Borders
 - Freeze Panes
-- Number Formatting
+- Searching
+- Updating
 
 ---
+
+## 📄 CSV
+
+- Create CSV
+- Read CSV
+- Write CSV
+- Append CSV
+- CSV Automation
+
+---
+
+## 🗄 JSON
+
+- JSON Parsing
+- JSON Read
+- JSON Write
+- JSON Update
+- JSON Database
+
+---
+
+## 🌐 REST APIs
+
+- GET Requests
+- POST Requests
+- JSON Responses
+- Error Handling
+- API Integration
+
+---
+
+## 🛡 Exception Handling
+
+- Try Except
+- Multiple Exceptions
+- Raise Exception
+- Custom Exception
+- Finally Block
+
+---
+
+## 📝 Logging
+
+- Logging Module
+- Log Levels
+- File Logging
+- Exception Logging
 
 # 📈 Progress
 
 ```
-███████░░░░░░░░░░░░░░░░░
+██████████░░░░░░░░░░░░░░░
 
-Completed: 7 / 90 Days
+Completed: 9 / 90 Days
 
-Progress: 7.8%
+Progress: 10%
 ```
 
 ---
 
 # 🎯 Current Focus
 
-- 🐍 Python Automation
-- 📊 Business Automation
+- 🐍 Advanced Python
+- 🌐 REST APIs
+- 🗄 Data Automation
 - 🤖 AI Automation
 - 🧠 LLM Engineering
-
 ---
 
 # 🏆 Repository Includes
@@ -198,10 +322,8 @@ Everything is built from scratch.
 
 # 🚀 Coming Soon
 
-- CSV Automation
-- JSON Automation
-- REST APIs
 - SQLite
+- Database Automation
 - Web Scraping
 - Email Automation
 - OpenAI API
@@ -211,6 +333,9 @@ Everything is built from scratch.
 - AI Agents
 - n8n
 - Make.com
+- FastAPI
+- Streamlit
+- AI Projects
 
 ---
 
@@ -235,15 +360,22 @@ https://boopathi-builder-chi.vercel.app/
 
 # 🎯 Final Goal
 
-By the end of this challenge, this repository will include:
+By the end of this challenge, this repository will include
 
-- ✅ 40+ Python Projects
+- ✅ 50+ Python Projects
 - ✅ 20+ AI Automation Projects
-- ✅ LLM Applications
+- ✅ REST API Integrations
+- ✅ Database Automation
 - ✅ AI Agents
-- ✅ Production-Ready Workflows
+- ✅ LangChain Projects
+- ✅ RAG Applications
+- ✅ n8n Workflows
+- ✅ Make.com Automations
+- ✅ Production-Ready AI Systems
 - ✅ Interview Preparation
 - ✅ Job-Ready Portfolio
+
+---
 
 ## 🚀 Destination
 
