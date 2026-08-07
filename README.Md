@@ -74,13 +74,10 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | 📂 File Automation | ✅ |
 | 📊 Excel Automation | ✅ |
 | 📄 CSV Automation | ✅ |
-| 🗄 JSON Automation | ✅ |
+| 🗂 JSON Automation | ✅ |
 | 🌐 REST APIs | ✅ |
-| ⚙️ Advanced Python Functions | ✅ |
-| 🧩 Functional Programming | ✅ |
-| 🛡️ Exception Handling | ✅ |
-| 📝 Logging | ✅ |
-| 💾 Database Automation | ⏳ |
+| 🗄 SQLite Database | ✅ |
+| 💾 Database Automation | 🔄 |
 | 🕸 Web Scraping | ⏳ |
 | 📧 Email Automation | ⏳ |
 | 🤖 OpenAI API | ⏳ |
@@ -92,7 +89,6 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | ⚙️ n8n | ⏳ |
 | 🔄 Make.com | ⏳ |
 | 💼 Resume & Interview Prep | 🔄 |
-
 ---
 
 # 📅 Daily Progress
@@ -108,6 +104,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | Day 07 | Excel Automation (openpyxl) | ✅ |
 | Day 08 | CSV, JSON & REST API Automation | ✅ |
 | Day 09 | Advanced Python, Functional Programming, Exception Handling & Logging | ✅ |
+| Day 10 | SQLite Database, CRUD Operations, SQL Reports & Employee Management System | ✅ |
 
 ---
 
@@ -131,7 +128,18 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Multi-Sheet Workbook Automation
 
 ---
+## 🗄 SQLite Database Projects
 
+- SQLite Database Creator
+- Employee Database
+- Employee CRUD System
+- Employee Dashboard
+- Employee Report Generator
+- Salary Analytics Dashboard
+- Department-wise Report
+- Modular Employee Management System
+
+---
 ## 📄 CSV Automation
 
 - CSV Creator
@@ -236,6 +244,37 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Updating
 
 ---
+### CSV & JSON Automation
+
+- CSV Read & Write
+- CSV Append
+- JSON Parsing
+- JSON Serialization
+- Requests Library
+- REST API Integration
+
+### Advanced Python
+
+- Advanced Functions
+- Lambda Functions
+- map()
+- filter()
+- reduce()
+- Custom Exceptions
+- Logging
+- Modular Programming
+
+### SQLite Database
+
+- Database Creation
+- Table Creation
+- CRUD Operations
+- Aggregate Functions
+- GROUP BY
+- ORDER BY
+- SQL Queries
+- Database Reports
+----
 
 ## 📄 CSV
 
@@ -287,11 +326,11 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 # 📈 Progress
 
 ```
-██████████░░░░░░░░░░░░░░░
+███████████░░░░░░░░░░░░░░░
 
-Completed: 9 / 90 Days
+Completed: 10 / 90 Days
 
-Progress: 10%
+Progress: 11.1%
 ```
 
 ---
@@ -322,7 +361,8 @@ Everything is built from scratch.
 
 # 🚀 Coming Soon
 
-- SQLite
+- Advanced SQL Queries
+- Database Relationships
 - Database Automation
 - Web Scraping
 - Email Automation
@@ -333,9 +373,6 @@ Everything is built from scratch.
 - AI Agents
 - n8n
 - Make.com
-- FastAPI
-- Streamlit
-- AI Projects
 
 ---
 
