@@ -68,33 +68,36 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 
 # 🛣️ Learning Roadmap
 
-| Phase | Progress |
-|--------|:-------:|
-| 🐍 Python Fundamentals | ✅ |
-| 📂 File Automation | ✅ |
-| 📊 Excel Automation | ✅ |
-| 📄 CSV Automation | ✅ |
-| 🗂 JSON Automation | ✅ |
-| 🌐 REST APIs | ✅ |
-| 🗄 SQLite Database | ✅ |
-| 💾 Database Automation | 🔄 |
-| 🕸 Web Scraping | ⏳ |
-| 📧 Email Automation | ⏳ |
-| 🤖 OpenAI API | ⏳ |
-| 🧠 Prompt Engineering | ⏳ |
-| 💬 LLM Applications | ⏳ |
-| 🔗 LangChain | ⏳ |
-| 📚 RAG | ⏳ |
-| 🤖 AI Agents | ⏳ |
-| ⚙️ n8n | ⏳ |
-| 🔄 Make.com | ⏳ |
-| 💼 Resume & Interview Prep | 🔄 |
+| Phase                      | Progress |
+| -------------------------- | :------: |
+| 🐍 Python Fundamentals     |     ✅    |
+| 📂 File Automation         |     ✅    |
+| 📊 Excel Automation        |     ✅    |
+| 📄 CSV Automation          |     ✅    |
+| 🗂 JSON Automation          |     ✅    |
+| 🌐 REST APIs               |     ✅    |
+| 🗄 SQLite Database          |     ✅    |
+| 💾 Database Automation     |     ✅    |
+| 🔗 SQL Relationships & JOINs |   ✅    |
+| 📊 SQL Reports & Analytics |     ✅    |
+| 🕸 Web Scraping            |     ⏳    |
+| 📧 Email Automation        |     ⏳    |
+| 🤖 OpenAI API              |     ⏳    |
+| 🧠 Prompt Engineering      |     ⏳    |
+| 💬 LLM Applications        |     ⏳    |
+| 🔗 LangChain               |     ⏳    |
+| 📚 RAG                     |     ⏳    |
+| 🤖 AI Agents               |     ⏳    |
+| ⚙️ n8n                     |     ⏳    |
+| 🔄 Make.com                |     ⏳    |
+| 💼 Resume & Interview Prep |    🔄    |
+
 ---
 
 # 📅 Daily Progress
 
-| Day | Learning | Status |
-|-----|----------|:------:|
+| Day    | Learning | Status |
+| ------ | -------- | :----: |
 | Day 01 | Python Basics | ✅ |
 | Day 02 | Functions & File Handling | ✅ |
 | Day 03 | Object-Oriented Programming | ✅ |
@@ -105,6 +108,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | Day 08 | CSV, JSON & REST API Automation | ✅ |
 | Day 09 | Advanced Python, Functional Programming, Exception Handling & Logging | ✅ |
 | Day 10 | SQLite Database, CRUD Operations, SQL Reports & Employee Management System | ✅ |
+| Day 11 | Advanced SQLite, Database Constraints, Relationships, JOINs & Company Management System | ✅ |
 
 ---
 
@@ -140,6 +144,22 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Modular Employee Management System
 
 ---
+## 🏢 Advanced SQLite & Database Projects
+
+- Advanced Employee Search System
+- Employee Dashboard
+- Database Constraints & Data Integrity
+- Primary Key & Foreign Key Implementation
+- Employee-Department Relationships
+- INNER JOIN Reports
+- LEFT JOIN Reports
+- Department-wise Analytics
+- Salary Analytics
+- Company Management System
+- Database Error Handling
+- Transaction Management
+---
+
 ## 📄 CSV Automation
 
 - CSV Creator
@@ -264,17 +284,56 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Logging
 - Modular Programming
 
-### SQLite Database
+### 🗄 SQLite Database
 
 - Database Creation
 - Table Creation
 - CRUD Operations
-- Aggregate Functions
-- GROUP BY
+- SELECT Queries
+- WHERE
+- LIKE
+- IN
+- BETWEEN
 - ORDER BY
-- SQL Queries
+- LIMIT
+- Aggregate Functions
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+- GROUP BY
+- INNER JOIN
+- LEFT JOIN
+- Primary Keys
+- Foreign Keys
+- NOT NULL
+- UNIQUE
+- CHECK
+- DEFAULT
+- Data Integrity
+- Transactions
+- COMMIT
+- ROLLBACK
 - Database Reports
-----
+- Department-wise Analytics
+---
+
+### 🔐 Database Design & Data Integrity
+
+- Primary Key
+- Foreign Key
+- NOT NULL Constraint
+- UNIQUE Constraint
+- CHECK Constraint
+- DEFAULT Values
+- Referential Integrity
+- One-to-Many Relationships
+- Transaction Management
+- Commit
+- Rollback
+
+---
 
 ## 📄 CSV
 
@@ -328,9 +387,10 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 ```
 ███████████░░░░░░░░░░░░░░░
 
-Completed: 10 / 90 Days
+Completed: 11 / 90 Days
+Remaining: 79 Days
 
-Progress: 11.1%
+Progress: 12.2%
 ```
 
 ---
@@ -339,7 +399,7 @@ Progress: 11.1%
 
 - 🐍 Advanced Python
 - 🌐 REST APIs
-- 🗄 Data Automation
+- 🗄 SQL & DataBase Automation
 - 🤖 AI Automation
 - 🧠 LLM Engineering
 ---
@@ -361,18 +421,18 @@ Everything is built from scratch.
 
 # 🚀 Coming Soon
 
-- Advanced SQL Queries
-- Database Relationships
-- Database Automation
-- Web Scraping
-- Email Automation
-- OpenAI API
-- Prompt Engineering
-- LangChain
-- RAG
-- AI Agents
-- n8n
-- Make.com
+- 🌐 Advanced REST API Development
+- ⚡ FastAPI
+- 🕸 Web Scraping
+- 📧 Email Automation
+- 🤖 OpenAI API
+- 🧠 Prompt Engineering
+- 💬 LLM Applications
+- 🔗 LangChain
+- 📚 RAG
+- 🤖 AI Agents
+- ⚙️ n8n
+- 🔄 Make.com
 
 ---
 
@@ -381,6 +441,33 @@ Everything is built from scratch.
 > **"Consistency beats intensity. Small improvements every day lead to extraordinary results."**
 
 ---
+
+---
+
+# 🏆 Day 11 Achievement
+
+### Advanced SQLite & Database Programming
+
+Today I completed:
+
+- ✅ Advanced SQL Queries
+- ✅ Database Constraints
+- ✅ Data Integrity
+- ✅ Primary Keys & Foreign Keys
+- ✅ SQL JOINs
+- ✅ GROUP BY
+- ✅ Aggregate Functions
+- ✅ SQL Reports
+- ✅ Department-wise Analytics
+- ✅ Employee Dashboard
+- ✅ Company Management System
+- ✅ Database Exception Handling
+
+### 🚀 Day 11 Completed
+
+**11 / 90 Days → 12.2% Complete**
+
+The journey is moving from **Python Automation → Database Automation → REST APIs → AI Automation → LLM Engineering**.
 
 # 🤝 Let's Connect
 
