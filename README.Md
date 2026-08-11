@@ -80,6 +80,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | 💾 Database Automation     |     ✅    |
 | 🔗 SQL Relationships & JOINs |   ✅    |
 | 📊 SQL Reports & Analytics |     ✅    |
+| 🔌 API Integration & Error Handling | ✅ |
 | 🕸 Web Scraping            |     ⏳    |
 | 📧 Email Automation        |     ⏳    |
 | 🤖 OpenAI API              |     ⏳    |
@@ -109,6 +110,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | Day 09 | Advanced Python, Functional Programming, Exception Handling & Logging | ✅ |
 | Day 10 | SQLite Database, CRUD Operations, SQL Reports & Employee Management System | ✅ |
 | Day 11 | Advanced SQLite, Database Constraints, Relationships, JOINs & Company Management System | ✅ |
+| Day 12 | REST API Automation, API Client, Error Handling & Employee API Management System | ✅ |
 
 ---
 
@@ -185,10 +187,14 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 
 - GET Request Client
 - POST Request Client
+- PUT Request Client
+- DELETE Request Client
 - JSON Response Parser
 - API Error Handler
-- JSON API Integrator
-
+- Employee Search API
+- Employee API Client
+- Employee API Management System
+- Employee Summary Report
 ---
 
 ## ⚙️ Advanced Python
@@ -284,7 +290,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Logging
 - Modular Programming
 
-### 🗄 SQLite Database
+### 🗄 SQL & SQLite Database
 
 - Database Creation
 - Table Creation
@@ -333,6 +339,22 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Commit
 - Rollback
 
+---
+## 🌐 REST APIs
+
+- REST API Fundamentals
+- HTTP Methods
+- GET Requests
+- POST Requests
+- PUT Requests
+- DELETE Requests
+- JSON Responses
+- HTTP Status Codes
+- Request Timeouts
+- raise_for_status()
+- API Error Handling
+- API Client Development
+- API Integration
 ---
 
 ## 📄 CSV
@@ -385,22 +407,25 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 # 📈 Progress
 
 ```
-███████████░░░░░░░░░░░░░░░
+█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completed: 11 / 90 Days
-Remaining: 79 Days
+Completed: 12 / 90 Days
+Remaining: 78 Days
 
-Progress: 12.2%
+Progress: 13.3%
 ```
 
 ---
 
 # 🎯 Current Focus
 
+
 - 🐍 Advanced Python
-- 🌐 REST APIs
-- 🗄 SQL & DataBase Automation
-- 🤖 AI Automation
+- 🌐 REST API Automation
+- 🗄 Database Automation
+- 🔌 API Integration
+- 🧩 Data Transformation
+- 🤖 AI Automation Foundations
 - 🧠 LLM Engineering
 ---
 
@@ -433,6 +458,7 @@ Everything is built from scratch.
 - 🤖 AI Agents
 - ⚙️ n8n
 - 🔄 Make.com
+- 💻 Production AI Automation Projects
 
 ---
 
