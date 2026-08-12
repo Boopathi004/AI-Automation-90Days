@@ -111,6 +111,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | Day 10 | SQLite Database, CRUD Operations, SQL Reports & Employee Management System | ✅ |
 | Day 11 | Advanced SQLite, Database Constraints, Relationships, JOINs & Company Management System | ✅ |
 | Day 12 | REST API Automation, API Client, Error Handling & Employee API Management System | ✅ |
+| Day 13 | Python Decorators, Generators, Logging & Employee Automation | ✅ |
 
 ---
 
@@ -206,6 +207,19 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Employee Salary Analyzer
 
 ---
+## 🤖 Advanced Python Automation
+
+- Python Decorators
+- Execution Time Logger
+- Python Generators
+- yield
+- Employee Data Generator
+- Employee Logger
+- Employee Salary Analytics
+- Department-wise Analytics
+- Employee Automation System
+
+---
 
 ## 🛡️ Exception Handling
 
@@ -289,6 +303,24 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Custom Exceptions
 - Logging
 - Modular Programming
+- Decorators
+- Wrapper Functions
+- `*args` and `**kwargs`
+- Generators
+- `yield`
+- Lazy Evaluation
+- Execution Time Tracking
+
+## 🤖 Employee Automation
+
+- Employee Data Processing
+- Employee Report Generation
+- Total Salary Calculation
+- Average Salary Calculation
+- Highest Salary Analysis
+- Department-wise Analysis
+- Execution Logging
+- Error Handling
 
 ### 🗄 SQL & SQLite Database
 
@@ -407,12 +439,12 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 # 📈 Progress
 
 ```
-█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+█████████████░░░░░░░░░░░
 
-Completed: 12 / 90 Days
-Remaining: 78 Days
+Completed: 13 / 90 Days
+Remaining: 77 Days
 
-Progress: 13.3%
+Progress: 14.4%
 ```
 
 ---
@@ -453,6 +485,7 @@ Everything is built from scratch.
 - 🤖 OpenAI API
 - 🧠 Prompt Engineering
 - 💬 LLM Applications
+-     NLP
 - 🔗 LangChain
 - 📚 RAG
 - 🤖 AI Agents
@@ -489,9 +522,6 @@ Today I completed:
 - ✅ Company Management System
 - ✅ Database Exception Handling
 
-### 🚀 Day 11 Completed
-
-**11 / 90 Days → 12.2% Complete**
 
 The journey is moving from **Python Automation → Database Automation → REST APIs → AI Automation → LLM Engineering**.
 
