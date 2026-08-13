@@ -81,6 +81,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | 🔗 SQL Relationships & JOINs |   ✅    |
 | 📊 SQL Reports & Analytics |     ✅    |
 | 🔌 API Integration & Error Handling | ✅ |
+| ⚡ FastAPI & Backend APIs  |     ✅    |
 | 🕸 Web Scraping            |     ⏳    |
 | 📧 Email Automation        |     ⏳    |
 | 🤖 OpenAI API              |     ⏳    |
@@ -112,6 +113,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | Day 11 | Advanced SQLite, Database Constraints, Relationships, JOINs & Company Management System | ✅ |
 | Day 12 | REST API Automation, API Client, Error Handling & Employee API Management System | ✅ |
 | Day 13 | Python Decorators, Generators, Logging & Employee Automation | ✅ |
+| Day 14 | FastAPI, REST APIs, Pydantic, CRUD & Employee API Development | ✅ |
 
 ---
 
@@ -198,6 +200,19 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Employee Summary Report
 ---
 
+## ⚡ FastAPI & Backend API Projects
+
+- FastAPI Basic API
+- Product REST API
+- Employee POST API
+- Employee CRUD API
+- Employee Search API
+- Department-wise Employee Filtering
+- Pydantic Request Validation
+- HTTPException Error Handling
+- Swagger API Testing
+
+---
 ## ⚙️ Advanced Python
 
 - Calculator using Functions
@@ -389,6 +404,24 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - API Integration
 ---
 
+## 🌐 REST APIs
+
+- REST API Fundamentals
+- HTTP Methods
+- GET Requests
+- POST Requests
+- PUT Requests
+- DELETE Requests
+- JSON Responses
+- HTTP Status Codes
+- Request Timeouts
+- raise_for_status()
+- API Error Handling
+- API Client Development
+- API Integration
+
+---
+
 ## 📄 CSV
 
 - Create CSV
@@ -441,17 +474,17 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 ```
 █████████████░░░░░░░░░░░
 
-Completed: 13 / 90 Days
-Remaining: 77 Days
+Completed: 14 / 90 Days
+Remaining: 76 Days
 
-Progress: 14.4%
+Progress: 15.6%
 ```
 
 ---
 
 # 🎯 Current Focus
 
-
+- ⚡ FastAPI & Backend Development
 - 🐍 Advanced Python
 - 🌐 REST API Automation
 - 🗄 Database Automation
@@ -479,7 +512,6 @@ Everything is built from scratch.
 # 🚀 Coming Soon
 
 - 🌐 Advanced REST API Development
-- ⚡ FastAPI
 - 🕸 Web Scraping
 - 📧 Email Automation
 - 🤖 OpenAI API
@@ -500,28 +532,6 @@ Everything is built from scratch.
 > **"Consistency beats intensity. Small improvements every day lead to extraordinary results."**
 
 ---
-
----
-
-# 🏆 Day 11 Achievement
-
-### Advanced SQLite & Database Programming
-
-Today I completed:
-
-- ✅ Advanced SQL Queries
-- ✅ Database Constraints
-- ✅ Data Integrity
-- ✅ Primary Keys & Foreign Keys
-- ✅ SQL JOINs
-- ✅ GROUP BY
-- ✅ Aggregate Functions
-- ✅ SQL Reports
-- ✅ Department-wise Analytics
-- ✅ Employee Dashboard
-- ✅ Company Management System
-- ✅ Database Exception Handling
-
 
 The journey is moving from **Python Automation → Database Automation → REST APIs → AI Automation → LLM Engineering**.
 
