@@ -114,6 +114,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | Day 12 | REST API Automation, API Client, Error Handling & Employee API Management System | ✅ |
 | Day 13 | Python Decorators, Generators, Logging & Employee Automation | ✅ |
 | Day 14 | FastAPI, REST APIs, Pydantic, CRUD & Employee API Development | ✅ |
+| Day 15 | SQLite + SQL CRUD + FastAPI Database Integration | ✅ Completed |
 
 ---
 
@@ -213,6 +214,42 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - Swagger API Testing
 
 ---
+### MAIN: 🚀 Day 15 Project — Employee Management API
+
+**Employee Management API** built using **Python, FastAPI, SQLite and Pydantic**.
+
+#### 🔧 Features
+- Create employee records
+- Get all employees
+- Get employee by ID
+- Update employee details
+- Delete employee records
+- Search employees by department
+- Request validation using Pydantic
+- SQLite database integration
+- Interactive Swagger/OpenAPI documentation
+- HTTP error handling
+
+#### 🛠️ Tech Stack
+`Python` `FastAPI` `SQLite` `SQL` `Pydantic` `REST API`
+
+#### 📌 API Endpoints
+
+| Method | Endpoint | Purpose |
+|---|---|---|
+| GET | `/employees` | Get all employees |
+| GET | `/employees/{id}` | Get employee by ID |
+| POST | `/employees` | Create employee |
+| PUT | `/employees/{id}` | Update employee |
+| DELETE | `/employees/{id}` | Delete employee |
+| GET | `/employees/department/{name}` | Search by department |
+
+#### 🎯 Project Outcome
+
+Built my first **database-backed REST API** by connecting FastAPI with SQLite and implementing complete CRUD operations.
+
+**Status:** ✅ Completed — Day 15
+
 ## ⚙️ Advanced Python
 
 - Calculator using Functions
@@ -441,17 +478,20 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 - JSON Database
 
 ---
+## Database & API Engineering
 
-## 🌐 REST APIs
-
-- GET Requests
-- POST Requests
-- JSON Responses
-- Error Handling
-- API Integration
-
----
-
+- SQLite Database
+- Python `sqlite3`
+- SQL CRUD Operations
+- SQL SELECT / INSERT / UPDATE / DELETE
+- Parameterized SQL Queries
+- FastAPI + SQLite Integration
+- Pydantic Models & Validation
+- REST API Development
+- HTTP Methods — GET, POST, PUT, DELETE
+- FastAPI Swagger / OpenAPI
+- API Error Handling
+- Database-backed API Architecture
 ## 🛡 Exception Handling
 
 - Try Except
@@ -474,10 +514,10 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 ```
 █████████████░░░░░░░░░░░
 
-Completed: 14 / 90 Days
-Remaining: 76 Days
+Completed: 15 / 90 Days
+Remaining: 75 Days
 
-Progress: 15.6%
+Progress: 16.7%
 ```
 
 ---
