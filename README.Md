@@ -114,7 +114,8 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | Day 12 | REST API Automation, API Client, Error Handling & Employee API Management System | ✅ |
 | Day 13 | Python Decorators, Generators, Logging & Employee Automation | ✅ |
 | Day 14 | FastAPI, REST APIs, Pydantic, CRUD & Employee API Development | ✅ |
-| Day 15 | SQLite + SQL CRUD + FastAPI Database Integration | ✅ Completed |
+| Day 15 | SQLite + SQL CRUD + FastAPI Database Integration | ✅ |
+| Day 16 | Professional FastAPI Project Structure + Service Layer + SQLite | ✅ |
 
 ---
 
@@ -247,8 +248,24 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 #### 🎯 Project Outcome
 
 Built my first **database-backed REST API** by connecting FastAPI with SQLite and implementing complete CRUD operations.
+---
 
-**Status:** ✅ Completed — Day 15
+## Modular Employee Management API
+
+Built a modular FastAPI backend by separating:
+
+**Routers → Services → Database → SQLite**
+
+#### Key Features
+- Employee API routes
+- Department API routes
+- Reusable database connection
+- Service-layer functions
+- SQLite integration
+- Swagger API testing
+- Debugging and error handling
+
+**Tech Stack:** `Python` `FastAPI` `SQLite` `SQL` `Pydantic` `REST API`
 
 ## ⚙️ Advanced Python
 
@@ -492,6 +509,22 @@ Built my first **database-backed REST API** by connecting FastAPI with SQLite an
 - FastAPI Swagger / OpenAPI
 - API Error Handling
 - Database-backed API Architecture
+---
+## Professional FastAPI Architecture
+
+- FastAPI `APIRouter`
+- Modular FastAPI project structure
+- Router prefixes and tags
+- `include_router()`
+- Service Layer
+- Separation of Concerns
+- SQLite connection management
+- Python `sqlite3`
+- SQL queries
+- Employee & Department services
+- Swagger / OpenAPI API testing
+- FastAPI + SQLite debugging
+
 ## 🛡 Exception Handling
 
 - Try Except
@@ -514,10 +547,10 @@ Built my first **database-backed REST API** by connecting FastAPI with SQLite an
 ```
 █████████████░░░░░░░░░░░
 
-Completed: 15 / 90 Days
-Remaining: 75 Days
+Completed: 16 / 90 Days
+Remaining: 74 Days
 
-Progress: 16.7%
+Progress: 17.8% 
 ```
 
 ---
