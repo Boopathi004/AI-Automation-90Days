@@ -116,6 +116,7 @@ Instead of only watching tutorials, I build **real projects every day** and shar
 | Day 14 | FastAPI, REST APIs, Pydantic, CRUD & Employee API Development | ✅ |
 | Day 15 | SQLite + SQL CRUD + FastAPI Database Integration | ✅ |
 | Day 16 | Professional FastAPI Project Structure + Service Layer + SQLite | ✅ |
+| Day 19 | 🔐 FastAPI Authentication, OAuth2, JWT & Role-Based Authorization | ✅ |
 
 ---
 
@@ -308,7 +309,33 @@ Built a modular FastAPI backend by separating:
 - Exception Logging
 - Employee Logger System
 ---
+### 🔐 Secure Employee Management API — Day 19
 
+Built a role-based Secure Employee Management API using **FastAPI, OAuth2 and JWT authentication**.
+
+**Features:**
+- OAuth2 login flow
+- JWT access-token generation
+- Bearer token authentication
+- Protected API endpoints
+- Current-user validation
+- Admin and User roles
+- Role-based authorization
+- Admin-only employee creation and deletion
+- Protected admin dashboard
+- HTTP exception handling
+- Swagger UI authentication testing
+
+**API Endpoints:**
+
+| Method | Endpoint | Access |
+|---|---|---|
+| POST | `/login` | Public |
+| GET | `/profile` | Authenticated |
+| GET | `/employees` | Authenticated |
+| POST | `/employees` | Admin Only |
+| DELETE | `/employees/{employee_id}` | Admin Only |
+| GET | `/admin/dashboard` | Admin Only |
 # 🧠 Skills Learned
 
 ## 🐍 Python
@@ -525,6 +552,21 @@ Built a modular FastAPI backend by separating:
 - Swagger / OpenAPI API testing
 - FastAPI + SQLite debugging
 
+### 🔐 Authentication & API Security
+- FastAPI Authentication
+- Authentication vs Authorization
+- OAuth2 Password Flow
+- `OAuth2PasswordRequestForm`
+- JWT Access Tokens
+- Bearer Token Authentication
+- JWT Encoding & Decoding
+- Token Expiration & Validation
+- Protected API Endpoints
+- FastAPI Dependency Injection with `Depends()`
+- Role-Based Access Control (RBAC)
+- Admin/User Permission Handling
+- HTTP Security Responses — 401, 403 & 404
+
 ## 🛡 Exception Handling
 
 - Try Except
@@ -545,12 +587,12 @@ Built a modular FastAPI backend by separating:
 # 📈 Progress
 
 ```
-█████████████░░░░░░░░░░░
+███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completed: 16 / 90 Days
-Remaining: 74 Days
+Completed: 19 / 90 Days
+Remaining: 71 Days
 
-Progress: 17.8% 
+Progress: 21.1% 
 ```
 
 ---
@@ -605,6 +647,15 @@ Everything is built from scratch.
 > **"Consistency beats intensity. Small improvements every day lead to extraordinary results."**
 
 ---
+## 🏆 Latest Learning Achievement
+
+### Day 19 — Secure FastAPI Authentication 🔐
+
+Moved beyond standard CRUD APIs by implementing a complete authentication and authorization flow:
+
+FastAPI → OAuth2 Login → JWT Access Token → Bearer Authentication → Protected Routes → Role-Based Authorization
+
+Built a **Secure Employee Management API** where authenticated users can access protected resources while admin-only operations are enforced using role-based permissions.
 
 The journey is moving from **Python Automation → Database Automation → REST APIs → AI Automation → LLM Engineering**.
 
